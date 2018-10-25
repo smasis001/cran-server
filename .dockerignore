@@ -1,0 +1,18 @@
+# Emacs auto-save files
+\#*#
+
+# Python Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info
+
+# Ignore .env file
+.env
+
+# Others
+.cache
+
+# ignore all markdown files (md)
+*.md
